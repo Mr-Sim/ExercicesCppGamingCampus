@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ExercicesCpp/.vs/ExercicesCpp/v17
+/ExercicesCpp/CashOptimization/CashOptimization/x64/Debug
+/ExercicesCpp/CashOptimization/x64/Debug
